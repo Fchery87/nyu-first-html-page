@@ -1,0 +1,35 @@
+body {
+    background: rgb(199, 244, 199);
+}
+
+img {height: 300px;
+}
+
+li {
+    color: rgb(22, 22, 22);
+}
+
+a {
+    color: blue;
+}
+
+h2 {
+    color: crimson;
+}
+
+.red-bg {
+    background: rgb(239, 170, 170);
+}
+
+.blue-bg {
+    background: rgb(166, 169, 239);
+}
+
+.black-txt {
+    color: rgb(255, 255, 255);
+}
+
+#font-32 {
+    font-size: 32px;
+    color: bisque;
+}
